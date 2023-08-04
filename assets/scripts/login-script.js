@@ -5,7 +5,7 @@
  * Gunakan fungsi showPopUp() untuk menampilkan pop up error
  */
 
-/** @module Login-script */
+/** @module Login-script  */
 /**
 *membuat variabel loginFormElement untuk tampilan form.
 * @constant {HTMLElement}
